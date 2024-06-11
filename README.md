@@ -30,7 +30,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.instagram.com/naufal.daffa_?igsh=M3Zzem53NHhmMnk1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="44" alt="instagram logo"  />
   </a>
