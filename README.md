@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Naufal Daffa
+- 👋 Hi, I’m Naufal Daffa, u can call me nopal
 - 👀 I’m interested on you
 - 🌱 I’m currently learning to loving u
 - 📫 How to reach me ? just dm my instagram @naufal.daffa_
