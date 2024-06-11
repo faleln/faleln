@@ -1,4 +1,4 @@
-<h2 align="left">Sup 👋! My name is nopal and I'm just a kid from Indonesia</h2>
+<h2 align="left">u can call me anything u want.</h2>
 
 ###
 
@@ -31,10 +31,10 @@
 ###
 
 <div align="center">
-  <a href="@naufal.daffa_" target="_blank">
+  <a href="https://www.instagram.com/naufal.daffa_?igsh=M3Zzem53NHhmMnk1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="44" alt="instagram logo"  />
   </a>
-  <a href="@bopal!~" target="_blank">
+  <a href="https://discord.com/channels/@me/712716576775864470" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="44" alt="discord logo"  />
   </a>
 </div>
